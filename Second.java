@@ -28,5 +28,6 @@ System.out.print("*");
 System.out.println();
 }
 System.out.println("End of the JAVA Project");
+System.out.println("*******END******");
 }
 }
